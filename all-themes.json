@@ -1,4 +1,6 @@
 //https://windowsterminalthemes.dev/
+//Select Settings in the Windows Terminal dropdown menu while holding Shift to open the settings.json file in your default text editor.
+// (The default text editor is defined in your Windows settings.) 按住Shift并选择Windows Terminal下拉菜单中的设置以在默认文本编辑器中打开settings.json文件。
 // cyber-cube
 //oceanicmaterial
 [
