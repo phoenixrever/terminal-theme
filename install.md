@@ -104,4 +104,7 @@ VSCode 的颜色自定义设置支持以下两类：
 - 生成完整的可粘贴 `settings.json` 模板
 - 或者生成 `.json` 文件你直接导入
 
-你可以贴出你复制的 JSON，我可以为你转换好格式。要试试吗？
+"workbench.colorCustomizations": {
+"tab.activeBorder": "#ff0000",
+"tab.activeBackground": "#114d25",
+}
